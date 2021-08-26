@@ -1,0 +1,29 @@
+.recipe {
+  border-radius: 10px;
+  box-shadow: 0px 5px 20px rgb(71, 71, 71);
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  background-image: linear-gradient(
+    -225deg,
+    #77ffd2 0%,
+    #6297db 48%,
+    #1eecff 100%
+  );
+  align-items: center;
+  min-width: 40%;
+  color: #fff;
+}
+
+.list {
+  font-size: 14px;
+  color: #fff;
+}
+
+.image {
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+  margin-top: 10px;
+}
